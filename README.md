@@ -6,7 +6,7 @@
 />
 </a>
 
-I'm designer
+I am a cool designer
 
 <a href="https://www.gitanimals.org/">
       <img
